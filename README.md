@@ -1,8 +1,16 @@
-[![CodeGuide](/codeguide-backdrop.svg)](https://codeguide.dev)
+<div align="center">
+  <a href="https://github.com/alcademyorg">
+    <img src="public/alcademy-logo.png" alt="Alcademy Logo" width="200">
+  </a>
 
-# CodeGuide Vite + Firebase Starter
+  <h1>Alcademy Vite + Firebase Starter</h1>
 
-A modern web application starter template built with Vite and React, featuring a beautiful UI and Firebase integration.
+  <p>
+    A modern web application starter template built with Next.js 14, featuring authentication and database integration.
+  </p>
+</div>
+<br>
+
 
 ## Tech Stack
 
@@ -29,7 +37,7 @@ Before you begin, ensure you have the following:
 
    ```bash
    git clone <repository-url>
-   cd codeguide-vite-firebase
+   cd alcademy-vite-firebase
    ```
 
 2. **Install dependencies**
