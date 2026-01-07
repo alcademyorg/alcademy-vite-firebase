@@ -29,7 +29,7 @@ Before you begin, ensure you have the following:
 
 - Node.js 18+ installed
 - A [Firebase](https://firebase.google.com/) account for backend services
-- Generated project documents from [CodeGuide](https://codeguide.dev/) for best development experience
+- Generated project documents from [AlcademyDev](https://github.com/alcademyorg/alcademy-vite-firebase) for best development experience
 
 ## Getting Started
 
