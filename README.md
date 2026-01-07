@@ -6,7 +6,7 @@
   <h1>Alcademy Vite + Firebase Starter</h1>
 
   <p>
-    A modern web application starter template built with Next.js 14, featuring authentication and database integration.
+    A modern web application starter template built with Vite and React, featuring a beautiful UI and Firebase integration.
   </p>
 </div>
 <br>
